@@ -9,7 +9,7 @@ Welcome to the CDRC Retail Centre Indicators repository. Here we provide detaile
 
 ## Indicators
 
-Indicators are developed for a subset of the 2021 release of the CDRC 'Retail Centre Boundaries' data product, available [HERE](https://data.cdrc.ac.uk/dataset/retail-centre-boundaries).
+Indicators are developed for a subset of the 2021 release of the CDRC 'Retail Centre Boundaries' data product.
 
 ----
 
