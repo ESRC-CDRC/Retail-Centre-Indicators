@@ -63,6 +63,6 @@ A supporting manual detailing the creation of the typology and pen portraits for
 
 Code is also available to see how parts of the typology were assembled:
 
-- [Calculating input variables using datasets available outside the DSH](https://github.com/patrickballantyne/CDRC-Retail-Indicators/blob/main/Analysis%20Code/Assembling%20OPEN%20typology%20variables.R)
-- [Assembling the retail centre typology, including feature selection](https://github.com/patrickballantyne/CDRC-Retail-Indicators/blob/main/Analysis%20Code/Multidimensional%20Typology.R)
+- [Calculating input variables using datasets available outside the DSH](https://github.com/ESCR-CDRC/Retail-Centre-Indicators/blob/main/Analysis%20Code/Assembling%20OPEN%20typology%20variables.R)
+- [Assembling the retail centre typology, including feature selection](https://github.com/ESRC-CDRC/Retail-Centre-Indicators/blob/main/Analysis%20Code/Multidimensional%20Typology.R)
 
